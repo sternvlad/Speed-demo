@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <ListView
+
+        android:id="@+id/android:list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:choiceMode="singleChoice"
+        android:clickable="true"
+        android:layout_gravity="center"
+        android:dividerHeight="2dp"
+        android:typeface="sans" >
+    </ListView>
+
+</LinearLayout>

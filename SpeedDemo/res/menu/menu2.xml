@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/menu_satelyte_type"
+        android:title="@string/satelyte_map"
+        android:titleCondensed="@string/satelyte_map">
+    </item>
+    <item
+        android:id="@+id/menu_terrain_type"
+        android:title="@string/terrain_map"
+        android:titleCondensed="@string/terrain_map">
+    </item>
+    <item
+        android:id="@+id/menu_normal_type"
+        android:title="@string/normal_map"
+        android:titleCondensed="@string/normal_map">
+    </item>
+
+</menu>
